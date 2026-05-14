@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Duy 👋
 
-<!--
-**HoaiDuyLe/HoaiDuyLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer / NPU Software Engineer · Started in Computer Vision, now building SDK and Runtime for AI accelerators (NPU).
 
-Here are some ideas to get you started:
+5+ years of experience in AI and NPU software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+`Python` `C/C++` 
+`NPU SDK` `NPU Runtime`
+`PyTorch` `TensorFlow` `ONNX` `YOLO` `Transformer`
+`Docker` `Git`
+
+---
+
+### 🎓 Education & Certifications
+
+- M.S. Artificial Intelligence · Chonnam National University (2023)
+- B.S. Electronic and Telecommunication · Ho Chi Minh City University of Technology - HCMUT (2018) · Honors Program
+  
+---
+
+### 🔍 Interests
+
+- I’m deeply interested in AI, covering everything from building models to running them efficiently on specialized hardware.
+---
+
+📍 Seoul · [LinkedIn](https://www.linkedin.com/in/hoaiduy1396/) · hoaiduy1396@gmail.com
